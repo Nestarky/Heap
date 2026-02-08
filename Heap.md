@@ -28,11 +28,11 @@
 
 <div align="center">
   
-$`Parent(i) = \Bigl\lfloor\frac{i}{2}\Bigr\rfloor \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;(i \geqslant 1)`$
+$`\Large{Parent(i) = \Bigl\lfloor\frac{i}{2}\Bigr\rfloor \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;(i \geqslant 1)}`$
 
-$`Left(i) = 2i \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;(2i \leqslant n)`$
+$`\Large{Left(i) = 2i \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;(2i \leqslant n)}`$
 
-$`Right(i) = 2i + 1 \;\;\;\;\;\;\;\;\;\;\;\;\;(2i + 1 \leqslant n)`$
+$`\Large{Right(i) = 2i + 1 \;\;\;\;\;\;\;\;\;\;\;\;\;(2i + 1 \leqslant n)}`$
 
 </div>
 
