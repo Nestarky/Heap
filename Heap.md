@@ -154,7 +154,7 @@ $`\Large{Right(i) = 2i + 1 \;\;\;\;\;\;\;\;\;\;\;\;\;(2i + 1 \leqslant n)}`$
 
 کد مربوط به ساخت هرم کمینه و هرم بیشینه با زبان C++ پیاده‌سازی
 
-[📄 دانلود سورس کد (cpp)](./Files/Heap.cpp?raw=true)  
+[📄 دانلود سورس کد (cpp)](./Files/Heap.cpp)  
 [🖥️ دانلود فایل اجرایی ویندوز (exe)](./Files/Heap.exe?raw=true)  
 [🐧 دانلود فایل اجرایی لینوکس (Binary)](./Files/Heap?raw=true)
 
