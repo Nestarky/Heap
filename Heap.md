@@ -489,7 +489,7 @@ int main(){
 
 <div align="left">
 
-> ![Alt text](./Images/11.png)
+> ![Alt text](./Images/8.png)
 
 </div>
 
@@ -501,7 +501,7 @@ int main(){
 
 <div align="left">
 
-![Alt text](./Images/8.png)
+![Alt text](./Images/9.png)
 
 </div>
 
@@ -510,7 +510,7 @@ int main(){
 
 <div align="left">
 
-> ![Alt text](./Images/12.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&xrarr;**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](./Images/13.png)
+> ![Alt text](./Images/10.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&xrarr;**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](./Images/11.png)
 
 </div>
 
@@ -522,7 +522,7 @@ int main(){
 
 <div align="left">
 
-![Alt text](./Images/9.png)
+![Alt text](./Images/12.png)
 
 </div>
 
@@ -644,7 +644,7 @@ int main(){
 
 <div align="center">
 
-![Alt text](./Images/10.png)
+![Alt text](./Images/13.png)
 
 </div>
 
